@@ -27,4 +27,4 @@ After the deployment is done, you can see a project page in Zeabur dashboard lik
 
 <figure><img src="../../.gitbook/assets/zeabur-project.png" alt="Zeabur Project Overview"><figcaption></figcaption></figure>
 
-You can also change the domain in the Networking tab in NGINX service page. You can refer to the [Zeabur Documentation](https://docs.zeabur.com/deploy/domain-binding) for more information.
+You can also change the domain in the Networking tab in NGINX service page. You can refer to the [Zeabur Documentation](https://zeabur.com/docs/deploy/domain-binding) for more information.
